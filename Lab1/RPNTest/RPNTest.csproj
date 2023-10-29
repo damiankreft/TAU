@@ -53,7 +53,9 @@
   <ItemGroup>
     <Compile Include="RpnTest.cs" />
     <Compile Include="RpnTests\FactorialTests.cs" />
+    <Compile Include="RpnTests\NotationTests.cs" />
     <Compile Include="RpnTests\NumeralSystemsTests.cs" />
+    <Compile Include="RpnTests\SmokeTests.cs" />
     <Compile Include="StackTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

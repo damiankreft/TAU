@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 
 namespace RpnCalculator
 {
-    public class Rpn
+    public class Rpn : INotation
     {
         private const char STRING_INPUT_ENTRIES_SEPARATOR = ' ';
 

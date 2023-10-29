@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="INotation.cs" />
     <Compile Include="MathOperationFactory.cs" />
     <Compile Include="Operations\AddOperation.cs" />
     <Compile Include="Operations\DivideOperation.cs" />
@@ -55,6 +56,7 @@
     <Compile Include="Int32ParserDecorator.cs" />
     <Compile Include="Rpn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SomeNewRpn.cs" />
     <Compile Include="Stack.cs" />
   </ItemGroup>
   <ItemGroup>
