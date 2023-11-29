@@ -1,4 +1,5 @@
 SUT = "https://poczta.wp.pl/login/login.html"
+SUT2 = "https://gdansk.pja.edu.pl/pl/st-kandydata#oplaty"
 PATH_COOKIES_BUTTON = "//button[text()='AKCEPTUJĘ I PRZECHODZĘ DO SERWISU']"
 PATH_LOGIN_LABEL = "//input[@id='login']/../label"
 PATH_LOGIN_BUTTON = "//button[text()='Zaloguj się']"
