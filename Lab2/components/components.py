@@ -1,0 +1,8 @@
+SUT = "https://poczta.wp.pl/login/login.html"
+PATH_COOKIES_BUTTON = "//button[text()='AKCEPTUJĘ I PRZECHODZĘ DO SERWISU']"
+PATH_LOGIN_LABEL = "//input[@id='login']/../label"
+PATH_LOGIN_BUTTON = "//button[text()='Zaloguj się']"
+PATH_PASSWORD_LABEL = "//input[@id='password']/../label"
+PATH_LOGIN_INPUT = "//input[@id='login']"
+PATH_PASSWORD_INPUT = "//input[@id='password']"
+PATH_ERROR_SPAN = "//span[text()='Podany login i/lub hasło są nieprawidłowe.']"
